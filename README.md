@@ -12,5 +12,3 @@ Currently working on Open Motion Studio, A complete open source, cross platform 
 
 - Email: tejaswisamavedula@gmail.com
 - LinkedIn: https://www.linkedin.com/in/tejaswisamavedula/
-
-Thanks for visiting my GitHub profile, and I look forward to connecting with you!
